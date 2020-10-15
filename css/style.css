@@ -1,0 +1,93 @@
+.first {
+  position: relative;
+  background-color: #e8ffff;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 3em;
+  color: #0f3057;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #0f3057;
+  font-size: 2em;
+  font-weight: bolder;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-container {
+  background-color: #e8ffff;
+  color: #11999E;
+}
+
+.middle-container {
+  background-color: #e8ffff;
+  color: #11999E;
+}
+
+.contact-me {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.bottomc {
+  position: absolute;
+  top: 200px;
+  left: 150px;
+}
+
+.topc {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
+
+.profile_pht {
+  height: 200px;
+}
+
+.prog {
+  height: 120px;
+  float: left;
+  margin-right: 30px;
+}
+
+.read {
+  height: 120px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 60%;
+  margin-top: 50px;
+  margin-bottom: 105px;
+  text-align: left;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
